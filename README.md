@@ -1,3 +1,4 @@
+
 <div align="center">
   <br />
   <p>
@@ -5,15 +6,11 @@
   </p>
   <br />
   <p>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://github.com/discordjs/discord.js/workflows/Testing/badge.svg" alt="Build status" /></a>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/github/languages/code-size/arihant-jain-09/discord-clone" alt="Code Size" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/github/repo-size/arihant-jain-09/discord-clone" alt="Build status" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=code" alt="Total Code lines" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=files" alt="total code files" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=lines" alt="total number of lines" /></a>
-  </p> 
-</div>
+    <a href="https://github.com/harryminaticikk/discord-server-clone"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://github.com/harryminaticikk/discord-server-clone"><img src="https://github.com/discordjs/discord.js/workflows/Testing/badge.svg" alt="Build status" /></a>
+    <a href="https://github.com/harryminaticikk/discord-server-clone"><img src="https://img.shields.io/github/languages/code-size/arihant-jain-09/discord-clone" alt="Code Size" /></a>
+<a href="https://github.com/harryminaticikk/discord-server-clone"><img src="https://img.shields.io/github/repo-size/arihant-jain-09/discord-clone" alt="Build status" /></a>
+
 
 ## Technologies
 
@@ -25,7 +22,7 @@
 ## Screenshots
 
 <div align="center">
-	<a href="https://github.com/NotSaksh"><img src="https://cdn.discordapp.com/attachments/908669547459018825/914122544351707206/unknown.png" alt="screenshot" /></a>
+	<a href="https://github.com/harryminaticikk"><img src="https://cdn.discordapp.com/attachments/908669547459018825/914122544351707206/unknown.png" alt="screenshot" /></a>
 </div>
 
 ## Table of contents
@@ -40,8 +37,8 @@
 
 ## Need Help?
 
-- [Instagram](https://www.instagram.com/notsaksh6969/)
-- [Discord](https://discord.gg/7YtDujvD)
+- [Instagram](https://www.instagram.com/ukalaharry/)
+- [Discord](https://discord.gg/zUX8vaeQxT)
 
 ## About
 
@@ -69,8 +66,8 @@ $ python3 main.py
 
 ## Links
 
-- [Website](https://notyoursakshyam.notsakshyam6966.repl.co/)
-- [GitHub](https://github.com/NotSaksh)
+- [Website](https://harryimsi.gq/)
+- [GitHub](https://github.com/harryminaticikk)
 
 
 ## Features
@@ -106,3 +103,5 @@ When submitting a pull request:
 - Clone the repo.
 - Create a branch off of master and give it a meaningful name (e.g. my-awesome-new-feature).
 - Open a [pull request](https://github.com/NotSaksh/Discord-Server-Cloner/pulls) on [GitHub](https://github.com) and describe the feature or fix.
+
+*suey tarafından program türkçeleştirilmiştir.*
