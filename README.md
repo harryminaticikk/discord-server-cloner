@@ -102,6 +102,6 @@ When submitting a pull request:
 
 - Clone the repo.
 - Create a branch off of master and give it a meaningful name (e.g. my-awesome-new-feature).
-- Open a [pull request](https://github.com/harryminaticik/discord-server-clone/pulls) on [GitHub](https://github.com) and describe the feature or fix.
+- Open a [pull request](https://github.com/harryminaticik/discord-server-cloner/pulls) on [GitHub](https://github.com) and describe the feature or fix.
 
 *suey tarafından program türkçeleştirilmiştir.*
